@@ -1,0 +1,1 @@
+/Users/mt/Exercism/rust/armstrong-numbers/target/debug/armstrong_numbers-4c1452f0a9d35315: /Users/mt/Exercism/rust/armstrong-numbers/src/lib.rs /Users/mt/Exercism/rust/armstrong-numbers/tests/armstrong-numbers.rs
